@@ -1,5 +1,5 @@
 {
-  "name": "temperature",
+  "name": "@jcalle0000/temperature",
   "version": "1.0.0",
   "description": "convert temperature b/w fahrenheit and celsius",
   "main": "index.js",
@@ -14,5 +14,10 @@
   "license": "ISC",
   "devDependencies": {
     "semistandard": "17.0.0"
+  },
+  "repository": {
+    "type":"git",
+    "url":"git+https://github.com/Jcalle0000/temperature_converter"
   }
+  
 }
